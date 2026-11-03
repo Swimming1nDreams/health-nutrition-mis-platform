@@ -1,0 +1,31 @@
+period,org_unit_name,township,mimu_pcode,partner,opd_under5_female,opd_under5_male,opd_over5_female,opd_over5_male,opd_total_attendance,anc_1st_visit,anc_4th_visit,male_anc_visits,pnc_visits,fp_oral_cycles_distributed,fp_depo_injections_given,malaria_rdt_tested,malaria_rdt_positive,malaria_treated_act,tb_screened,tb_sputum_positive,tb_started_dots,estimated_monthly_birth_cohort,bcg_doses_given,penta_3_doses_given,mr_measles_doses_given,sam_admissions,mam_admissions
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,MMR004001,Terre des hommes (Tdh),480,378,1324,866,3048,145,124,0,104,71,68,98,4,4,71,7,7,87,81,81,67,24,12
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,MMR013008,Sun Community Health (SCH),1133,986,1871,2059,6049,300,234,0,187,170,182,191,15,15,71,11,11,162,163,142,121,19,19
+2026-05,Lashio IDP Health Post,Lashio,MMR014001,Tdh & Best Shelter,335,407,710,733,2185,86,68,0,60,68,153,216,27,27,46,4,4,58,54,53,50,9,14
+2026-05,Bogale Rural Sub-Center,Bogale,MMR017006,Sun Community Health (SCH),457,391,758,703,2309,82,66,0,52,157,108,115,5,5,26,3,3,64,61,55,48,21,31
+2026-05,Dawei Coastal Clinic,Dawei,MMR007001,Shwe Kyun Thar & SCH,287,368,804,739,2198,63,45,0,34,55,163,110,6,6,66,9,9,52,48,46,47,8,26
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,MMR004001,Terre des hommes (Tdh),607,346,929,1085,2967,134,115,0,81,78,63,124,12,12,44,7,7,87,75,77,79,6,18
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,MMR013008,Sun Community Health (SCH),686,948,2280,1463,5377,218,158,0,137,147,143,110,15,15,61,8,8,162,148,154,128,5,23
+2026-06,Lashio IDP Health Post,Lashio,MMR014001,Tdh & Best Shelter,289,247,619,643,1798,99,76,0,59,55,94,105,12,12,65,9,9,58,58,45,48,4,12
+2026-06,Bogale Rural Sub-Center,Bogale,MMR017006,Sun Community Health (SCH),286,267,923,887,2363,96,80,0,68,77,112,116,12,12,58,7,7,64,57,51,56,23,23
+2026-06,Dawei Coastal Clinic,Dawei,MMR007001,Shwe Kyun Thar & SCH,325,307,533,697,1862,73,54,0,43,94,90,215,29,29,64,7,7,52,52,45,41,24,25
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,MMR004001,Terre des hommes (Tdh),417,392,1341,1101,3251,166,126,0,92,56,73,245,18,18,38,4,4,87,79,80,152,5,18
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,MMR013008,Sun Community Health (SCH),1028,1128,1765,2139,6060,251,169,0,148,158,211,228,16,16,37,5,5,162,166,133,124,11,18
+2026-07,Lashio IDP Health Post,Lashio,MMR014001,Tdh & Best Shelter,270,304,643,803,2020,73,57,0,40,156,97,135,17,17,54,5,5,58,53,50,45,15,29
+2026-07,Bogale Rural Sub-Center,Bogale,MMR017006,Sun Community Health (SCH),291,275,941,580,2087,83,70,0,55,88,147,136,17,17,63,6,6,64,64,60,59,22,26
+2026-07,Dawei Coastal Clinic,Dawei,MMR007001,Shwe Kyun Thar & SCH,215,349,683,748,1995,84,70,0,52,154,123,143,10,10,62,6,6,52,53,49,48,4,38
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,MMR004001,Terre des hommes (Tdh),624,347,1136,1143,3250,107,82,0,65,70,175,206,13,13,60,9,9,87,86,74,68,15,30
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,MMR013008,Sun Community Health (SCH),754,1169,1578,2030,5531,213,160,0,130,51,176,198,23,23,80,12,12,162,143,151,140,24,12
+2026-08,Lashio IDP Health Post,Lashio,MMR014001,Tdh & Best Shelter,392,237,935,615,2179,71,53,0,39,98,235,100,10,10,46,7,7,58,49,55,50,5,19
+2026-08,Bogale Rural Sub-Center,Bogale,MMR017006,Sun Community Health (SCH),331,348,639,694,2012,107,86,3,69,97,95,165,10,10,32,4,4,64,63,58,58,10,26
+2026-08,Dawei Coastal Clinic,Dawei,MMR007001,Shwe Kyun Thar & SCH,256,357,688,576,1877,64,47,0,37,173,194,292,15,15,70,9,9,52,52,48,43,15,16
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,MMR004001,Terre des hommes (Tdh),391,595,895,952,2833,116,100,0,71,87,130,108,11,11,56,5,5,87,77,82,65,17,20
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,MMR013008,Sun Community Health (SCH),882,853,2423,1424,5582,217,142,0,122,178,225,165,13,13,46,6,6,162,163,140,141,20,40
+2026-09,Lashio IDP Health Post,Lashio,MMR014001,Tdh & Best Shelter,313,335,937,606,2191,103,72,0,55,118,72,117,8,32,54,9,9,58,56,46,49,9,23
+2026-09,Bogale Rural Sub-Center,Bogale,MMR017006,Sun Community Health (SCH),430,398,929,615,2372,88,58,0,44,77,172,146,11,11,38,5,5,64,54,53,52,15,40
+2026-09,Dawei Coastal Clinic,Dawei,MMR007001,Shwe Kyun Thar & SCH,294,228,613,726,1861,77,58,0,42,162,141,119,4,4,72,9,9,52,49,46,41,13,21
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,MMR004001,Terre des hommes (Tdh),571,550,1421,926,3468,112,85,0,60,74,138,86,6,6,78,7,7,87,80,72,75,10,45
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,MMR013008,Sun Community Health (SCH),745,1134,1885,1425,5189,257,193,0,161,67,191,180,10,10,45,6,6,162,154,127,142,16,21
+2026-10,Lashio IDP Health Post,Lashio,MMR014001,Tdh & Best Shelter,364,307,722,508,1901,84,60,0,47,67,115,266,34,34,72,12,12,58,58,48,52,17,38
+2026-10,Bogale Rural Sub-Center,Bogale,MMR017006,Sun Community Health (SCH),278,375,660,635,1948,99,84,0,75,61,211,273,21,21,25,3,3,64,66,54,54,22,20
+2026-10,Dawei Coastal Clinic,Dawei,MMR007001,Shwe Kyun Thar & SCH,234,345,608,597,1784,93,66,0,53,171,203,269,23,23,26,4,4,52,45,43,45,24,42

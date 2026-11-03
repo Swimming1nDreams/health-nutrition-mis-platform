@@ -1,0 +1,2528 @@
+{
+  "dataSet": "SCH_PRIMARY_HEALTH_MONTHLY",
+  "completeDate": "2026-11-01",
+  "period": "2026Q3",
+  "orgUnit": "MMR_SCH_FACILITIES",
+  "dataValues": [
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "3048",
+      "comment": "OPD Total Consultations recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "145",
+      "comment": "Antenatal Care 1st Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "124",
+      "comment": "Antenatal Care 4th Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "104",
+      "comment": "Postnatal Care Visits recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "98",
+      "comment": "Malaria RDT Tested recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "4",
+      "comment": "Malaria RDT Positive Cases recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "4",
+      "comment": "Malaria Cases Treated with ACT recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "71",
+      "comment": "Presumptive TB Screened recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "7",
+      "comment": "TB Sputum Positive Confirmed recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "67",
+      "comment": "Measles-Rubella Doses Administered recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202605",
+      "orgUnit": "MMR004001",
+      "value": "24",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "6049",
+      "comment": "OPD Total Consultations recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "300",
+      "comment": "Antenatal Care 1st Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "234",
+      "comment": "Antenatal Care 4th Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "187",
+      "comment": "Postnatal Care Visits recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "191",
+      "comment": "Malaria RDT Tested recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "15",
+      "comment": "Malaria RDT Positive Cases recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "15",
+      "comment": "Malaria Cases Treated with ACT recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "71",
+      "comment": "Presumptive TB Screened recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "11",
+      "comment": "TB Sputum Positive Confirmed recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "121",
+      "comment": "Measles-Rubella Doses Administered recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202605",
+      "orgUnit": "MMR013008",
+      "value": "19",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "2185",
+      "comment": "OPD Total Consultations recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "86",
+      "comment": "Antenatal Care 1st Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "68",
+      "comment": "Antenatal Care 4th Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "60",
+      "comment": "Postnatal Care Visits recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "216",
+      "comment": "Malaria RDT Tested recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "27",
+      "comment": "Malaria RDT Positive Cases recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "27",
+      "comment": "Malaria Cases Treated with ACT recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "46",
+      "comment": "Presumptive TB Screened recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "4",
+      "comment": "TB Sputum Positive Confirmed recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "50",
+      "comment": "Measles-Rubella Doses Administered recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202605",
+      "orgUnit": "MMR014001",
+      "value": "9",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "2309",
+      "comment": "OPD Total Consultations recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "82",
+      "comment": "Antenatal Care 1st Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "66",
+      "comment": "Antenatal Care 4th Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "52",
+      "comment": "Postnatal Care Visits recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "115",
+      "comment": "Malaria RDT Tested recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "5",
+      "comment": "Malaria RDT Positive Cases recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "5",
+      "comment": "Malaria Cases Treated with ACT recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "26",
+      "comment": "Presumptive TB Screened recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "3",
+      "comment": "TB Sputum Positive Confirmed recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "48",
+      "comment": "Measles-Rubella Doses Administered recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202605",
+      "orgUnit": "MMR017006",
+      "value": "21",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "2198",
+      "comment": "OPD Total Consultations recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "63",
+      "comment": "Antenatal Care 1st Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "45",
+      "comment": "Antenatal Care 4th Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "34",
+      "comment": "Postnatal Care Visits recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "110",
+      "comment": "Malaria RDT Tested recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "6",
+      "comment": "Malaria RDT Positive Cases recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "6",
+      "comment": "Malaria Cases Treated with ACT recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "66",
+      "comment": "Presumptive TB Screened recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "9",
+      "comment": "TB Sputum Positive Confirmed recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "47",
+      "comment": "Measles-Rubella Doses Administered recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202605",
+      "orgUnit": "MMR007001",
+      "value": "8",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "2967",
+      "comment": "OPD Total Consultations recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "134",
+      "comment": "Antenatal Care 1st Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "115",
+      "comment": "Antenatal Care 4th Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "81",
+      "comment": "Postnatal Care Visits recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "124",
+      "comment": "Malaria RDT Tested recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "12",
+      "comment": "Malaria RDT Positive Cases recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "12",
+      "comment": "Malaria Cases Treated with ACT recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "44",
+      "comment": "Presumptive TB Screened recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "7",
+      "comment": "TB Sputum Positive Confirmed recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "79",
+      "comment": "Measles-Rubella Doses Administered recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202606",
+      "orgUnit": "MMR004001",
+      "value": "6",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "5377",
+      "comment": "OPD Total Consultations recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "218",
+      "comment": "Antenatal Care 1st Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "158",
+      "comment": "Antenatal Care 4th Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "137",
+      "comment": "Postnatal Care Visits recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "110",
+      "comment": "Malaria RDT Tested recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "15",
+      "comment": "Malaria RDT Positive Cases recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "15",
+      "comment": "Malaria Cases Treated with ACT recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "61",
+      "comment": "Presumptive TB Screened recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "8",
+      "comment": "TB Sputum Positive Confirmed recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "128",
+      "comment": "Measles-Rubella Doses Administered recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202606",
+      "orgUnit": "MMR013008",
+      "value": "5",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "1798",
+      "comment": "OPD Total Consultations recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "99",
+      "comment": "Antenatal Care 1st Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "76",
+      "comment": "Antenatal Care 4th Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "59",
+      "comment": "Postnatal Care Visits recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "105",
+      "comment": "Malaria RDT Tested recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "12",
+      "comment": "Malaria RDT Positive Cases recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "12",
+      "comment": "Malaria Cases Treated with ACT recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "65",
+      "comment": "Presumptive TB Screened recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "9",
+      "comment": "TB Sputum Positive Confirmed recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "48",
+      "comment": "Measles-Rubella Doses Administered recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202606",
+      "orgUnit": "MMR014001",
+      "value": "4",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "2363",
+      "comment": "OPD Total Consultations recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "96",
+      "comment": "Antenatal Care 1st Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "80",
+      "comment": "Antenatal Care 4th Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "68",
+      "comment": "Postnatal Care Visits recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "116",
+      "comment": "Malaria RDT Tested recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "12",
+      "comment": "Malaria RDT Positive Cases recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "12",
+      "comment": "Malaria Cases Treated with ACT recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "58",
+      "comment": "Presumptive TB Screened recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "7",
+      "comment": "TB Sputum Positive Confirmed recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "56",
+      "comment": "Measles-Rubella Doses Administered recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202606",
+      "orgUnit": "MMR017006",
+      "value": "23",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "1862",
+      "comment": "OPD Total Consultations recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "73",
+      "comment": "Antenatal Care 1st Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "54",
+      "comment": "Antenatal Care 4th Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "43",
+      "comment": "Postnatal Care Visits recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "215",
+      "comment": "Malaria RDT Tested recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "29",
+      "comment": "Malaria RDT Positive Cases recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "29",
+      "comment": "Malaria Cases Treated with ACT recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "64",
+      "comment": "Presumptive TB Screened recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "7",
+      "comment": "TB Sputum Positive Confirmed recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "41",
+      "comment": "Measles-Rubella Doses Administered recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202606",
+      "orgUnit": "MMR007001",
+      "value": "24",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "3251",
+      "comment": "OPD Total Consultations recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "166",
+      "comment": "Antenatal Care 1st Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "126",
+      "comment": "Antenatal Care 4th Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "92",
+      "comment": "Postnatal Care Visits recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "245",
+      "comment": "Malaria RDT Tested recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "18",
+      "comment": "Malaria RDT Positive Cases recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "18",
+      "comment": "Malaria Cases Treated with ACT recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "38",
+      "comment": "Presumptive TB Screened recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "4",
+      "comment": "TB Sputum Positive Confirmed recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "152",
+      "comment": "Measles-Rubella Doses Administered recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202607",
+      "orgUnit": "MMR004001",
+      "value": "5",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "6060",
+      "comment": "OPD Total Consultations recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "251",
+      "comment": "Antenatal Care 1st Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "169",
+      "comment": "Antenatal Care 4th Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "148",
+      "comment": "Postnatal Care Visits recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "228",
+      "comment": "Malaria RDT Tested recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "16",
+      "comment": "Malaria RDT Positive Cases recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "16",
+      "comment": "Malaria Cases Treated with ACT recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "37",
+      "comment": "Presumptive TB Screened recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "5",
+      "comment": "TB Sputum Positive Confirmed recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "124",
+      "comment": "Measles-Rubella Doses Administered recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202607",
+      "orgUnit": "MMR013008",
+      "value": "11",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "2020",
+      "comment": "OPD Total Consultations recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "73",
+      "comment": "Antenatal Care 1st Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "57",
+      "comment": "Antenatal Care 4th Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "40",
+      "comment": "Postnatal Care Visits recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "135",
+      "comment": "Malaria RDT Tested recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "17",
+      "comment": "Malaria RDT Positive Cases recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "17",
+      "comment": "Malaria Cases Treated with ACT recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "54",
+      "comment": "Presumptive TB Screened recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "5",
+      "comment": "TB Sputum Positive Confirmed recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "45",
+      "comment": "Measles-Rubella Doses Administered recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202607",
+      "orgUnit": "MMR014001",
+      "value": "15",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "2087",
+      "comment": "OPD Total Consultations recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "83",
+      "comment": "Antenatal Care 1st Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "70",
+      "comment": "Antenatal Care 4th Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "55",
+      "comment": "Postnatal Care Visits recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "136",
+      "comment": "Malaria RDT Tested recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "17",
+      "comment": "Malaria RDT Positive Cases recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "17",
+      "comment": "Malaria Cases Treated with ACT recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "63",
+      "comment": "Presumptive TB Screened recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "6",
+      "comment": "TB Sputum Positive Confirmed recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "59",
+      "comment": "Measles-Rubella Doses Administered recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202607",
+      "orgUnit": "MMR017006",
+      "value": "22",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "1995",
+      "comment": "OPD Total Consultations recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "84",
+      "comment": "Antenatal Care 1st Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "70",
+      "comment": "Antenatal Care 4th Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "52",
+      "comment": "Postnatal Care Visits recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "143",
+      "comment": "Malaria RDT Tested recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "10",
+      "comment": "Malaria RDT Positive Cases recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "10",
+      "comment": "Malaria Cases Treated with ACT recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "62",
+      "comment": "Presumptive TB Screened recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "6",
+      "comment": "TB Sputum Positive Confirmed recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "48",
+      "comment": "Measles-Rubella Doses Administered recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202607",
+      "orgUnit": "MMR007001",
+      "value": "4",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "3250",
+      "comment": "OPD Total Consultations recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "107",
+      "comment": "Antenatal Care 1st Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "82",
+      "comment": "Antenatal Care 4th Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "65",
+      "comment": "Postnatal Care Visits recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "206",
+      "comment": "Malaria RDT Tested recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "13",
+      "comment": "Malaria RDT Positive Cases recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "13",
+      "comment": "Malaria Cases Treated with ACT recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "60",
+      "comment": "Presumptive TB Screened recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "9",
+      "comment": "TB Sputum Positive Confirmed recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "68",
+      "comment": "Measles-Rubella Doses Administered recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "15",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "5531",
+      "comment": "OPD Total Consultations recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "213",
+      "comment": "Antenatal Care 1st Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "160",
+      "comment": "Antenatal Care 4th Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "130",
+      "comment": "Postnatal Care Visits recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "198",
+      "comment": "Malaria RDT Tested recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "23",
+      "comment": "Malaria RDT Positive Cases recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "23",
+      "comment": "Malaria Cases Treated with ACT recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "80",
+      "comment": "Presumptive TB Screened recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "12",
+      "comment": "TB Sputum Positive Confirmed recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "140",
+      "comment": "Measles-Rubella Doses Administered recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202608",
+      "orgUnit": "MMR013008",
+      "value": "24",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "2179",
+      "comment": "OPD Total Consultations recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "71",
+      "comment": "Antenatal Care 1st Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "53",
+      "comment": "Antenatal Care 4th Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "39",
+      "comment": "Postnatal Care Visits recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "100",
+      "comment": "Malaria RDT Tested recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "10",
+      "comment": "Malaria RDT Positive Cases recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "10",
+      "comment": "Malaria Cases Treated with ACT recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "46",
+      "comment": "Presumptive TB Screened recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "7",
+      "comment": "TB Sputum Positive Confirmed recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "50",
+      "comment": "Measles-Rubella Doses Administered recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "5",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "2012",
+      "comment": "OPD Total Consultations recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "107",
+      "comment": "Antenatal Care 1st Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "86",
+      "comment": "Antenatal Care 4th Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "3",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "69",
+      "comment": "Postnatal Care Visits recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "165",
+      "comment": "Malaria RDT Tested recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "10",
+      "comment": "Malaria RDT Positive Cases recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "10",
+      "comment": "Malaria Cases Treated with ACT recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "32",
+      "comment": "Presumptive TB Screened recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "4",
+      "comment": "TB Sputum Positive Confirmed recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "58",
+      "comment": "Measles-Rubella Doses Administered recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "10",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "1877",
+      "comment": "OPD Total Consultations recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "64",
+      "comment": "Antenatal Care 1st Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "47",
+      "comment": "Antenatal Care 4th Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "37",
+      "comment": "Postnatal Care Visits recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "292",
+      "comment": "Malaria RDT Tested recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "15",
+      "comment": "Malaria RDT Positive Cases recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "15",
+      "comment": "Malaria Cases Treated with ACT recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "70",
+      "comment": "Presumptive TB Screened recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "9",
+      "comment": "TB Sputum Positive Confirmed recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "43",
+      "comment": "Measles-Rubella Doses Administered recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "15",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "2833",
+      "comment": "OPD Total Consultations recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "116",
+      "comment": "Antenatal Care 1st Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "100",
+      "comment": "Antenatal Care 4th Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "71",
+      "comment": "Postnatal Care Visits recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "108",
+      "comment": "Malaria RDT Tested recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "11",
+      "comment": "Malaria RDT Positive Cases recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "11",
+      "comment": "Malaria Cases Treated with ACT recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "56",
+      "comment": "Presumptive TB Screened recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "5",
+      "comment": "TB Sputum Positive Confirmed recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "65",
+      "comment": "Measles-Rubella Doses Administered recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202609",
+      "orgUnit": "MMR004001",
+      "value": "17",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "5582",
+      "comment": "OPD Total Consultations recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "217",
+      "comment": "Antenatal Care 1st Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "142",
+      "comment": "Antenatal Care 4th Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "122",
+      "comment": "Postnatal Care Visits recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "165",
+      "comment": "Malaria RDT Tested recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "13",
+      "comment": "Malaria RDT Positive Cases recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "13",
+      "comment": "Malaria Cases Treated with ACT recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "46",
+      "comment": "Presumptive TB Screened recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "6",
+      "comment": "TB Sputum Positive Confirmed recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "141",
+      "comment": "Measles-Rubella Doses Administered recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202609",
+      "orgUnit": "MMR013008",
+      "value": "20",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "2191",
+      "comment": "OPD Total Consultations recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "103",
+      "comment": "Antenatal Care 1st Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "72",
+      "comment": "Antenatal Care 4th Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "55",
+      "comment": "Postnatal Care Visits recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "117",
+      "comment": "Malaria RDT Tested recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "8",
+      "comment": "Malaria RDT Positive Cases recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "32",
+      "comment": "Malaria Cases Treated with ACT recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "54",
+      "comment": "Presumptive TB Screened recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "9",
+      "comment": "TB Sputum Positive Confirmed recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "49",
+      "comment": "Measles-Rubella Doses Administered recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202609",
+      "orgUnit": "MMR014001",
+      "value": "9",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "2372",
+      "comment": "OPD Total Consultations recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "88",
+      "comment": "Antenatal Care 1st Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "58",
+      "comment": "Antenatal Care 4th Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "44",
+      "comment": "Postnatal Care Visits recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "146",
+      "comment": "Malaria RDT Tested recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "11",
+      "comment": "Malaria RDT Positive Cases recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "11",
+      "comment": "Malaria Cases Treated with ACT recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "38",
+      "comment": "Presumptive TB Screened recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "5",
+      "comment": "TB Sputum Positive Confirmed recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "52",
+      "comment": "Measles-Rubella Doses Administered recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202609",
+      "orgUnit": "MMR017006",
+      "value": "15",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "1861",
+      "comment": "OPD Total Consultations recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "77",
+      "comment": "Antenatal Care 1st Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "58",
+      "comment": "Antenatal Care 4th Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "42",
+      "comment": "Postnatal Care Visits recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "119",
+      "comment": "Malaria RDT Tested recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "4",
+      "comment": "Malaria RDT Positive Cases recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "4",
+      "comment": "Malaria Cases Treated with ACT recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "72",
+      "comment": "Presumptive TB Screened recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "9",
+      "comment": "TB Sputum Positive Confirmed recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "41",
+      "comment": "Measles-Rubella Doses Administered recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202609",
+      "orgUnit": "MMR007001",
+      "value": "13",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "3468",
+      "comment": "OPD Total Consultations recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "112",
+      "comment": "Antenatal Care 1st Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "85",
+      "comment": "Antenatal Care 4th Visit recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "60",
+      "comment": "Postnatal Care Visits recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "86",
+      "comment": "Malaria RDT Tested recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "6",
+      "comment": "Malaria RDT Positive Cases recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "6",
+      "comment": "Malaria Cases Treated with ACT recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "78",
+      "comment": "Presumptive TB Screened recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "7",
+      "comment": "TB Sputum Positive Confirmed recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "75",
+      "comment": "Measles-Rubella Doses Administered recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202610",
+      "orgUnit": "MMR004001",
+      "value": "10",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Mandalay Peri-Urban Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "5189",
+      "comment": "OPD Total Consultations recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "257",
+      "comment": "Antenatal Care 1st Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "193",
+      "comment": "Antenatal Care 4th Visit recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "161",
+      "comment": "Postnatal Care Visits recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "180",
+      "comment": "Malaria RDT Tested recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "10",
+      "comment": "Malaria RDT Positive Cases recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "10",
+      "comment": "Malaria Cases Treated with ACT recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "45",
+      "comment": "Presumptive TB Screened recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "6",
+      "comment": "TB Sputum Positive Confirmed recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "142",
+      "comment": "Measles-Rubella Doses Administered recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202610",
+      "orgUnit": "MMR013008",
+      "value": "16",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Hlaingtharyar Community Clinic"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "1901",
+      "comment": "OPD Total Consultations recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "84",
+      "comment": "Antenatal Care 1st Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "60",
+      "comment": "Antenatal Care 4th Visit recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "47",
+      "comment": "Postnatal Care Visits recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "266",
+      "comment": "Malaria RDT Tested recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "34",
+      "comment": "Malaria RDT Positive Cases recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "34",
+      "comment": "Malaria Cases Treated with ACT recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "72",
+      "comment": "Presumptive TB Screened recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "12",
+      "comment": "TB Sputum Positive Confirmed recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "52",
+      "comment": "Measles-Rubella Doses Administered recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202610",
+      "orgUnit": "MMR014001",
+      "value": "17",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Lashio IDP Health Post"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "1948",
+      "comment": "OPD Total Consultations recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "99",
+      "comment": "Antenatal Care 1st Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "84",
+      "comment": "Antenatal Care 4th Visit recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "75",
+      "comment": "Postnatal Care Visits recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "273",
+      "comment": "Malaria RDT Tested recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "21",
+      "comment": "Malaria RDT Positive Cases recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "21",
+      "comment": "Malaria Cases Treated with ACT recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "25",
+      "comment": "Presumptive TB Screened recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "3",
+      "comment": "TB Sputum Positive Confirmed recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "54",
+      "comment": "Measles-Rubella Doses Administered recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202610",
+      "orgUnit": "MMR017006",
+      "value": "22",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Bogale Rural Sub-Center"
+    },
+    {
+      "dataElement": "DE_OPD_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "1784",
+      "comment": "OPD Total Consultations recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_1ST",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "93",
+      "comment": "Antenatal Care 1st Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_4TH",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "66",
+      "comment": "Antenatal Care 4th Visit recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_ANC_MALE",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "0",
+      "comment": "Male ANC Attendance (Validation Trap) recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_PNC_TOTAL",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "53",
+      "comment": "Postnatal Care Visits recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_TESTED",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "269",
+      "comment": "Malaria RDT Tested recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_POS",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "23",
+      "comment": "Malaria RDT Positive Cases recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_MAL_ACT",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "23",
+      "comment": "Malaria Cases Treated with ACT recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_SCREEN",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "26",
+      "comment": "Presumptive TB Screened recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_TB_POS",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "4",
+      "comment": "TB Sputum Positive Confirmed recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_IMM_MEASLES",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "45",
+      "comment": "Measles-Rubella Doses Administered recorded at Dawei Coastal Clinic"
+    },
+    {
+      "dataElement": "DE_NUT_SAM",
+      "period": "202610",
+      "orgUnit": "MMR007001",
+      "value": "24",
+      "comment": "Severe Acute Malnutrition New Admissions recorded at Dawei Coastal Clinic"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+month,health_facility,township,commodity_name,unit,opening_balance,received_quantity,dispensed_quantity,losses_and_expired,closing_balance,stock_out_days
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,RUTF (Plumpy'Nut 92g Sachets),Sachets,2368,3000,1339,0,4029,0
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,RUTF (Plumpy'Nut 92g Sachets),Sachets,4029,0,1256,0,2773,0
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,RUTF (Plumpy'Nut 92g Sachets),Sachets,2773,0,1033,5,1735,0
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,RUTF (Plumpy'Nut 92g Sachets),Sachets,1735,3000,1497,0,3238,0
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,RUTF (Plumpy'Nut 92g Sachets),Sachets,3238,0,1298,0,1940,0
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,RUTF (Plumpy'Nut 92g Sachets),Sachets,1940,0,1321,0,619,0
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,Iron Folic Acid (IFA 60mg/400mcg),Tablets,10451,11250,5144,0,16557,0
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,Iron Folic Acid (IFA 60mg/400mcg),Tablets,16557,11250,4118,0,23689,0
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,Iron Folic Acid (IFA 60mg/400mcg),Tablets,23689,0,4654,0,19035,0
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,Iron Folic Acid (IFA 60mg/400mcg),Tablets,19035,11250,4118,5,26162,0
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,Iron Folic Acid (IFA 60mg/400mcg),Tablets,26162,0,4970,0,21192,0
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,Iron Folic Acid (IFA 60mg/400mcg),Tablets,21192,0,4346,0,16846,0
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,Amoxicillin 125mg/5ml Dry Syrup,Bottles,881,875,404,0,1352,0
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1352,875,381,0,1846,0
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1846,0,419,0,1427,0
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1427,0,335,0,1092,0
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1092,0,310,0,782,0
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,Amoxicillin 125mg/5ml Dry Syrup,Bottles,782,0,299,0,483,0
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,Malaria Pf/Pv Rapid Test (RDT),Tests,578,0,202,0,376,0
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,Malaria Pf/Pv Rapid Test (RDT),Tests,376,500,178,0,698,0
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,Malaria Pf/Pv Rapid Test (RDT),Tests,698,0,236,12,450,0
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,Malaria Pf/Pv Rapid Test (RDT),Tests,450,0,219,12,219,0
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,Malaria Pf/Pv Rapid Test (RDT),Tests,219,0,237,0,0,4
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,Malaria Pf/Pv Rapid Test (RDT),Tests,0,500,206,0,294,0
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,247,200,83,0,364,0
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,364,200,72,12,480,0
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,480,0,84,0,396,0
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,396,200,90,0,506,0
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,506,0,75,0,431,0
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,431,200,90,0,541,0
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,Oral Rehydration Salts (ORS) + Zinc,Co-packs,792,0,352,0,440,0
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,Oral Rehydration Salts (ORS) + Zinc,Co-packs,440,0,352,5,83,0
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,Oral Rehydration Salts (ORS) + Zinc,Co-packs,83,1000,346,12,725,0
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,Oral Rehydration Salts (ORS) + Zinc,Co-packs,725,0,434,0,291,0
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,Oral Rehydration Salts (ORS) + Zinc,Co-packs,291,1000,346,0,945,0
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,Oral Rehydration Salts (ORS) + Zinc,Co-packs,945,0,460,12,473,0
+2026-05,Mandalay Peri-Urban Clinic,Mandalay,"Vitamin A 200,000 IU Capsules",Capsules,1252,1500,726,0,2026,0
+2026-06,Mandalay Peri-Urban Clinic,Mandalay,"Vitamin A 200,000 IU Capsules",Capsules,2026,1500,517,0,3009,0
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,"Vitamin A 200,000 IU Capsules",Capsules,3009,1500,737,0,3772,0
+2026-08,Mandalay Peri-Urban Clinic,Mandalay,"Vitamin A 200,000 IU Capsules",Capsules,3772,0,715,12,3045,0
+2026-09,Mandalay Peri-Urban Clinic,Mandalay,"Vitamin A 200,000 IU Capsules",Capsules,3045,0,568,0,2477,0
+2026-10,Mandalay Peri-Urban Clinic,Mandalay,"Vitamin A 200,000 IU Capsules",Capsules,2477,0,706,12,1759,0
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,RUTF (Plumpy'Nut 92g Sachets),Sachets,2524,3000,1111,12,4401,0
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,RUTF (Plumpy'Nut 92g Sachets),Sachets,4401,0,1022,0,3379,0
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,RUTF (Plumpy'Nut 92g Sachets),Sachets,3379,0,1461,5,1913,0
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,RUTF (Plumpy'Nut 92g Sachets),Sachets,1913,0,1195,5,713,0
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,RUTF (Plumpy'Nut 92g Sachets),Sachets,713,3000,1343,0,2370,0
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,RUTF (Plumpy'Nut 92g Sachets),Sachets,2370,3000,1491,12,3867,0
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,Iron Folic Acid (IFA 60mg/400mcg),Tablets,9533,0,4028,0,5505,0
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,Iron Folic Acid (IFA 60mg/400mcg),Tablets,5505,0,4663,5,837,0
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,Iron Folic Acid (IFA 60mg/400mcg),Tablets,837,0,5197,12,0,1
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,Iron Folic Acid (IFA 60mg/400mcg),Tablets,0,0,3973,5,0,3
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,Iron Folic Acid (IFA 60mg/400mcg),Tablets,0,0,4647,5,0,2
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,Iron Folic Acid (IFA 60mg/400mcg),Tablets,0,11250,4822,5,6423,0
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,Amoxicillin 125mg/5ml Dry Syrup,Bottles,722,0,307,5,410,0
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,Amoxicillin 125mg/5ml Dry Syrup,Bottles,410,875,428,0,857,0
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,Amoxicillin 125mg/5ml Dry Syrup,Bottles,857,0,437,0,420,0
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,Amoxicillin 125mg/5ml Dry Syrup,Bottles,420,0,352,0,68,0
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,Amoxicillin 125mg/5ml Dry Syrup,Bottles,68,875,314,12,617,0
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,Amoxicillin 125mg/5ml Dry Syrup,Bottles,617,0,434,0,183,0
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,Malaria Pf/Pv Rapid Test (RDT),Tests,378,500,248,12,618,0
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,Malaria Pf/Pv Rapid Test (RDT),Tests,618,500,237,0,881,0
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,Malaria Pf/Pv Rapid Test (RDT),Tests,881,0,237,0,644,0
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,Malaria Pf/Pv Rapid Test (RDT),Tests,644,0,231,12,401,0
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,Malaria Pf/Pv Rapid Test (RDT),Tests,401,0,191,5,205,0
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,Malaria Pf/Pv Rapid Test (RDT),Tests,205,0,198,5,2,4
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,201,0,72,0,129,0
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,129,0,76,0,53,0
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,53,0,68,0,0,4
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,0,0,89,5,0,5
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,0,200,89,12,99,0
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,99,0,87,12,0,4
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1163,0,372,5,786,0
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,Oral Rehydration Salts (ORS) + Zinc,Co-packs,786,0,420,12,354,0
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,Oral Rehydration Salts (ORS) + Zinc,Co-packs,354,0,427,0,0,4
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,Oral Rehydration Salts (ORS) + Zinc,Co-packs,0,1000,480,5,515,0
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,Oral Rehydration Salts (ORS) + Zinc,Co-packs,515,1000,390,5,1120,0
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1120,1000,345,0,1775,0
+2026-05,Hlaingtharyar Community Clinic,Hlaingtharyar,"Vitamin A 200,000 IU Capsules",Capsules,1823,1500,549,0,2774,0
+2026-06,Hlaingtharyar Community Clinic,Hlaingtharyar,"Vitamin A 200,000 IU Capsules",Capsules,2774,0,681,0,2093,0
+2026-07,Hlaingtharyar Community Clinic,Hlaingtharyar,"Vitamin A 200,000 IU Capsules",Capsules,2093,0,646,12,1435,0
+2026-08,Hlaingtharyar Community Clinic,Hlaingtharyar,"Vitamin A 200,000 IU Capsules",Capsules,1435,0,674,5,756,0
+2026-09,Hlaingtharyar Community Clinic,Hlaingtharyar,"Vitamin A 200,000 IU Capsules",Capsules,756,1500,644,0,1612,0
+2026-10,Hlaingtharyar Community Clinic,Hlaingtharyar,"Vitamin A 200,000 IU Capsules",Capsules,1612,0,603,5,1004,0
+2026-05,Lashio IDP Health Post,Lashio,RUTF (Plumpy'Nut 92g Sachets),Sachets,3196,0,1189,0,2007,0
+2026-06,Lashio IDP Health Post,Lashio,RUTF (Plumpy'Nut 92g Sachets),Sachets,2007,0,1049,0,958,0
+2026-07,Lashio IDP Health Post,Lashio,RUTF (Plumpy'Nut 92g Sachets),Sachets,958,3000,1421,12,2525,0
+2026-08,Lashio IDP Health Post,Lashio,RUTF (Plumpy'Nut 92g Sachets),Sachets,2525,0,1032,0,1493,0
+2026-09,Lashio IDP Health Post,Lashio,RUTF (Plumpy'Nut 92g Sachets),Sachets,1493,0,1202,0,291,14
+2026-10,Lashio IDP Health Post,Lashio,RUTF (Plumpy'Nut 92g Sachets),Sachets,291,0,291,0,0,11
+2026-05,Lashio IDP Health Post,Lashio,Iron Folic Acid (IFA 60mg/400mcg),Tablets,12182,0,4891,0,7291,0
+2026-06,Lashio IDP Health Post,Lashio,Iron Folic Acid (IFA 60mg/400mcg),Tablets,7291,11250,5389,0,13152,0
+2026-07,Lashio IDP Health Post,Lashio,Iron Folic Acid (IFA 60mg/400mcg),Tablets,13152,11250,3860,5,20537,0
+2026-08,Lashio IDP Health Post,Lashio,Iron Folic Acid (IFA 60mg/400mcg),Tablets,20537,11250,5008,12,26767,0
+2026-09,Lashio IDP Health Post,Lashio,Iron Folic Acid (IFA 60mg/400mcg),Tablets,26767,11250,5447,5,32565,0
+2026-10,Lashio IDP Health Post,Lashio,Iron Folic Acid (IFA 60mg/400mcg),Tablets,32565,0,4883,5,27677,0
+2026-05,Lashio IDP Health Post,Lashio,Amoxicillin 125mg/5ml Dry Syrup,Bottles,909,875,342,5,1437,0
+2026-06,Lashio IDP Health Post,Lashio,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1437,0,311,0,1126,0
+2026-07,Lashio IDP Health Post,Lashio,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1126,0,367,0,759,0
+2026-08,Lashio IDP Health Post,Lashio,Amoxicillin 125mg/5ml Dry Syrup,Bottles,759,875,320,5,1309,0
+2026-09,Lashio IDP Health Post,Lashio,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1309,0,325,0,984,0
+2026-10,Lashio IDP Health Post,Lashio,Amoxicillin 125mg/5ml Dry Syrup,Bottles,984,0,415,0,569,0
+2026-05,Lashio IDP Health Post,Lashio,Malaria Pf/Pv Rapid Test (RDT),Tests,434,0,193,0,241,0
+2026-06,Lashio IDP Health Post,Lashio,Malaria Pf/Pv Rapid Test (RDT),Tests,241,0,219,12,10,1
+2026-07,Lashio IDP Health Post,Lashio,Malaria Pf/Pv Rapid Test (RDT),Tests,10,500,217,12,281,0
+2026-08,Lashio IDP Health Post,Lashio,Malaria Pf/Pv Rapid Test (RDT),Tests,281,0,234,0,47,3
+2026-09,Lashio IDP Health Post,Lashio,Malaria Pf/Pv Rapid Test (RDT),Tests,47,0,233,0,0,5
+2026-10,Lashio IDP Health Post,Lashio,Malaria Pf/Pv Rapid Test (RDT),Tests,0,500,234,12,254,0
+2026-05,Lashio IDP Health Post,Lashio,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,179,200,81,12,286,0
+2026-06,Lashio IDP Health Post,Lashio,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,286,0,82,0,204,0
+2026-07,Lashio IDP Health Post,Lashio,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,204,0,96,12,96,0
+2026-08,Lashio IDP Health Post,Lashio,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,96,0,95,0,1,4
+2026-09,Lashio IDP Health Post,Lashio,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,1,0,76,12,0,4
+2026-10,Lashio IDP Health Post,Lashio,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,0,0,97,0,0,5
+2026-05,Lashio IDP Health Post,Lashio,Oral Rehydration Salts (ORS) + Zinc,Co-packs,832,1000,413,0,1419,0
+2026-06,Lashio IDP Health Post,Lashio,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1419,1000,475,0,1944,0
+2026-07,Lashio IDP Health Post,Lashio,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1944,0,441,0,1503,0
+2026-08,Lashio IDP Health Post,Lashio,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1503,0,471,0,1032,0
+2026-09,Lashio IDP Health Post,Lashio,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1032,1000,449,0,1583,0
+2026-10,Lashio IDP Health Post,Lashio,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1583,1000,358,0,2225,0
+2026-05,Lashio IDP Health Post,Lashio,"Vitamin A 200,000 IU Capsules",Capsules,1749,0,584,5,1160,0
+2026-06,Lashio IDP Health Post,Lashio,"Vitamin A 200,000 IU Capsules",Capsules,1160,0,611,0,549,0
+2026-07,Lashio IDP Health Post,Lashio,"Vitamin A 200,000 IU Capsules",Capsules,549,1500,548,0,1501,0
+2026-08,Lashio IDP Health Post,Lashio,"Vitamin A 200,000 IU Capsules",Capsules,1501,1500,699,12,2290,0
+2026-09,Lashio IDP Health Post,Lashio,"Vitamin A 200,000 IU Capsules",Capsules,2290,0,552,5,1733,0
+2026-10,Lashio IDP Health Post,Lashio,"Vitamin A 200,000 IU Capsules",Capsules,1733,1500,697,0,2536,0
+2026-05,Bogale Rural Sub-Center,Bogale,RUTF (Plumpy'Nut 92g Sachets),Sachets,2687,3000,1163,5,4519,0
+2026-06,Bogale Rural Sub-Center,Bogale,RUTF (Plumpy'Nut 92g Sachets),Sachets,4519,0,1450,0,3069,0
+2026-07,Bogale Rural Sub-Center,Bogale,RUTF (Plumpy'Nut 92g Sachets),Sachets,3069,0,1210,0,1859,0
+2026-08,Bogale Rural Sub-Center,Bogale,RUTF (Plumpy'Nut 92g Sachets),Sachets,1859,0,1133,12,714,0
+2026-09,Bogale Rural Sub-Center,Bogale,RUTF (Plumpy'Nut 92g Sachets),Sachets,714,0,1467,12,0,5
+2026-10,Bogale Rural Sub-Center,Bogale,RUTF (Plumpy'Nut 92g Sachets),Sachets,0,0,1140,0,0,5
+2026-05,Bogale Rural Sub-Center,Bogale,Iron Folic Acid (IFA 60mg/400mcg),Tablets,8870,11250,5277,12,14831,0
+2026-06,Bogale Rural Sub-Center,Bogale,Iron Folic Acid (IFA 60mg/400mcg),Tablets,14831,0,5152,0,9679,0
+2026-07,Bogale Rural Sub-Center,Bogale,Iron Folic Acid (IFA 60mg/400mcg),Tablets,9679,11250,5508,0,15421,0
+2026-08,Bogale Rural Sub-Center,Bogale,Iron Folic Acid (IFA 60mg/400mcg),Tablets,15421,0,4140,5,11276,0
+2026-09,Bogale Rural Sub-Center,Bogale,Iron Folic Acid (IFA 60mg/400mcg),Tablets,11276,0,4560,0,6716,0
+2026-10,Bogale Rural Sub-Center,Bogale,Iron Folic Acid (IFA 60mg/400mcg),Tablets,6716,11250,4707,0,13259,0
+2026-05,Bogale Rural Sub-Center,Bogale,Amoxicillin 125mg/5ml Dry Syrup,Bottles,785,0,356,0,429,0
+2026-06,Bogale Rural Sub-Center,Bogale,Amoxicillin 125mg/5ml Dry Syrup,Bottles,429,0,420,0,9,4
+2026-07,Bogale Rural Sub-Center,Bogale,Amoxicillin 125mg/5ml Dry Syrup,Bottles,9,0,397,0,0,5
+2026-08,Bogale Rural Sub-Center,Bogale,Amoxicillin 125mg/5ml Dry Syrup,Bottles,0,0,302,0,0,2
+2026-09,Bogale Rural Sub-Center,Bogale,Amoxicillin 125mg/5ml Dry Syrup,Bottles,0,875,332,0,543,0
+2026-10,Bogale Rural Sub-Center,Bogale,Amoxicillin 125mg/5ml Dry Syrup,Bottles,543,0,423,12,108,0
+2026-05,Bogale Rural Sub-Center,Bogale,Malaria Pf/Pv Rapid Test (RDT),Tests,602,500,238,5,859,0
+2026-06,Bogale Rural Sub-Center,Bogale,Malaria Pf/Pv Rapid Test (RDT),Tests,859,0,244,0,615,0
+2026-07,Bogale Rural Sub-Center,Bogale,Malaria Pf/Pv Rapid Test (RDT),Tests,615,0,177,0,438,0
+2026-08,Bogale Rural Sub-Center,Bogale,Malaria Pf/Pv Rapid Test (RDT),Tests,438,0,193,0,245,0
+2026-09,Bogale Rural Sub-Center,Bogale,Malaria Pf/Pv Rapid Test (RDT),Tests,245,0,243,5,0,1
+2026-10,Bogale Rural Sub-Center,Bogale,Malaria Pf/Pv Rapid Test (RDT),Tests,0,500,191,5,304,0
+2026-05,Bogale Rural Sub-Center,Bogale,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,196,0,81,5,110,0
+2026-06,Bogale Rural Sub-Center,Bogale,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,110,0,96,0,14,3
+2026-07,Bogale Rural Sub-Center,Bogale,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,14,200,84,12,118,0
+2026-08,Bogale Rural Sub-Center,Bogale,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,118,0,91,0,27,4
+2026-09,Bogale Rural Sub-Center,Bogale,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,27,0,90,0,0,4
+2026-10,Bogale Rural Sub-Center,Bogale,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,0,200,93,5,102,0
+2026-05,Bogale Rural Sub-Center,Bogale,Oral Rehydration Salts (ORS) + Zinc,Co-packs,832,0,388,0,444,0
+2026-06,Bogale Rural Sub-Center,Bogale,Oral Rehydration Salts (ORS) + Zinc,Co-packs,444,0,365,0,79,0
+2026-07,Bogale Rural Sub-Center,Bogale,Oral Rehydration Salts (ORS) + Zinc,Co-packs,79,0,475,0,0,4
+2026-08,Bogale Rural Sub-Center,Bogale,Oral Rehydration Salts (ORS) + Zinc,Co-packs,0,0,416,0,0,2
+2026-09,Bogale Rural Sub-Center,Bogale,Oral Rehydration Salts (ORS) + Zinc,Co-packs,0,0,449,0,0,2
+2026-10,Bogale Rural Sub-Center,Bogale,Oral Rehydration Salts (ORS) + Zinc,Co-packs,0,1000,353,5,642,0
+2026-05,Bogale Rural Sub-Center,Bogale,"Vitamin A 200,000 IU Capsules",Capsules,1816,0,736,0,1080,0
+2026-06,Bogale Rural Sub-Center,Bogale,"Vitamin A 200,000 IU Capsules",Capsules,1080,1500,514,12,2054,0
+2026-07,Bogale Rural Sub-Center,Bogale,"Vitamin A 200,000 IU Capsules",Capsules,2054,0,665,0,1389,0
+2026-08,Bogale Rural Sub-Center,Bogale,"Vitamin A 200,000 IU Capsules",Capsules,1389,1500,743,0,2146,0
+2026-09,Bogale Rural Sub-Center,Bogale,"Vitamin A 200,000 IU Capsules",Capsules,2146,0,521,12,1613,0
+2026-10,Bogale Rural Sub-Center,Bogale,"Vitamin A 200,000 IU Capsules",Capsules,1613,1500,572,0,2541,0
+2026-05,Dawei Coastal Clinic,Dawei,RUTF (Plumpy'Nut 92g Sachets),Sachets,2445,3000,1292,12,4141,0
+2026-06,Dawei Coastal Clinic,Dawei,RUTF (Plumpy'Nut 92g Sachets),Sachets,4141,0,1228,5,2908,0
+2026-07,Dawei Coastal Clinic,Dawei,RUTF (Plumpy'Nut 92g Sachets),Sachets,2908,0,1417,0,1491,0
+2026-08,Dawei Coastal Clinic,Dawei,RUTF (Plumpy'Nut 92g Sachets),Sachets,1491,3000,1362,0,3129,0
+2026-09,Dawei Coastal Clinic,Dawei,RUTF (Plumpy'Nut 92g Sachets),Sachets,3129,0,1158,0,1971,0
+2026-10,Dawei Coastal Clinic,Dawei,RUTF (Plumpy'Nut 92g Sachets),Sachets,1971,3000,1227,0,3744,0
+2026-05,Dawei Coastal Clinic,Dawei,Iron Folic Acid (IFA 60mg/400mcg),Tablets,14369,0,4334,5,10030,0
+2026-06,Dawei Coastal Clinic,Dawei,Iron Folic Acid (IFA 60mg/400mcg),Tablets,10030,0,4149,0,5881,0
+2026-07,Dawei Coastal Clinic,Dawei,Iron Folic Acid (IFA 60mg/400mcg),Tablets,5881,11250,4347,12,12772,0
+2026-08,Dawei Coastal Clinic,Dawei,Iron Folic Acid (IFA 60mg/400mcg),Tablets,12772,11250,4636,12,19374,0
+2026-09,Dawei Coastal Clinic,Dawei,Iron Folic Acid (IFA 60mg/400mcg),Tablets,19374,0,5056,0,14318,0
+2026-10,Dawei Coastal Clinic,Dawei,Iron Folic Acid (IFA 60mg/400mcg),Tablets,14318,0,4668,5,9645,0
+2026-05,Dawei Coastal Clinic,Dawei,Amoxicillin 125mg/5ml Dry Syrup,Bottles,966,0,397,12,557,0
+2026-06,Dawei Coastal Clinic,Dawei,Amoxicillin 125mg/5ml Dry Syrup,Bottles,557,875,333,0,1099,0
+2026-07,Dawei Coastal Clinic,Dawei,Amoxicillin 125mg/5ml Dry Syrup,Bottles,1099,0,304,5,790,0
+2026-08,Dawei Coastal Clinic,Dawei,Amoxicillin 125mg/5ml Dry Syrup,Bottles,790,0,424,12,354,0
+2026-09,Dawei Coastal Clinic,Dawei,Amoxicillin 125mg/5ml Dry Syrup,Bottles,354,0,396,0,0,3
+2026-10,Dawei Coastal Clinic,Dawei,Amoxicillin 125mg/5ml Dry Syrup,Bottles,0,875,368,5,502,0
+2026-05,Dawei Coastal Clinic,Dawei,Malaria Pf/Pv Rapid Test (RDT),Tests,547,0,180,0,367,0
+2026-06,Dawei Coastal Clinic,Dawei,Malaria Pf/Pv Rapid Test (RDT),Tests,367,500,216,12,639,0
+2026-07,Dawei Coastal Clinic,Dawei,Malaria Pf/Pv Rapid Test (RDT),Tests,639,500,209,5,925,0
+2026-08,Dawei Coastal Clinic,Dawei,Malaria Pf/Pv Rapid Test (RDT),Tests,925,500,180,12,1233,0
+2026-09,Dawei Coastal Clinic,Dawei,Malaria Pf/Pv Rapid Test (RDT),Tests,1233,500,204,0,1529,0
+2026-10,Dawei Coastal Clinic,Dawei,Malaria Pf/Pv Rapid Test (RDT),Tests,1529,500,173,0,1856,0
+2026-05,Dawei Coastal Clinic,Dawei,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,227,200,97,0,330,0
+2026-06,Dawei Coastal Clinic,Dawei,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,330,0,87,0,243,0
+2026-07,Dawei Coastal Clinic,Dawei,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,243,200,84,0,359,0
+2026-08,Dawei Coastal Clinic,Dawei,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,359,0,78,0,281,0
+2026-09,Dawei Coastal Clinic,Dawei,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,281,0,85,5,191,0
+2026-10,Dawei Coastal Clinic,Dawei,Artemether-Lumefantrine (ACT) 20/120mg,Blisters,191,200,69,0,322,0
+2026-05,Dawei Coastal Clinic,Dawei,Oral Rehydration Salts (ORS) + Zinc,Co-packs,822,1000,415,5,1402,0
+2026-06,Dawei Coastal Clinic,Dawei,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1402,0,409,5,988,0
+2026-07,Dawei Coastal Clinic,Dawei,Oral Rehydration Salts (ORS) + Zinc,Co-packs,988,1000,346,12,1630,0
+2026-08,Dawei Coastal Clinic,Dawei,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1630,0,417,0,1213,0
+2026-09,Dawei Coastal Clinic,Dawei,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1213,1000,359,0,1854,0
+2026-10,Dawei Coastal Clinic,Dawei,Oral Rehydration Salts (ORS) + Zinc,Co-packs,1854,1000,368,12,2474,0
+2026-05,Dawei Coastal Clinic,Dawei,"Vitamin A 200,000 IU Capsules",Capsules,1770,0,645,0,1125,0
+2026-06,Dawei Coastal Clinic,Dawei,"Vitamin A 200,000 IU Capsules",Capsules,1125,0,650,12,463,0
+2026-07,Dawei Coastal Clinic,Dawei,"Vitamin A 200,000 IU Capsules",Capsules,463,1500,694,0,1269,0
+2026-08,Dawei Coastal Clinic,Dawei,"Vitamin A 200,000 IU Capsules",Capsules,1269,0,569,0,700,0
+2026-09,Dawei Coastal Clinic,Dawei,"Vitamin A 200,000 IU Capsules",Capsules,700,1500,722,0,1478,0
+2026-10,Dawei Coastal Clinic,Dawei,"Vitamin A 200,000 IU Capsules",Capsules,1478,0,604,0,874,0

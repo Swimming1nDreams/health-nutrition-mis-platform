@@ -1,0 +1,4 @@
+period,health_facility,township,rule_name,expression,left_side_value,right_side_value,severity,action
+2026-07,Mandalay Peri-Urban Clinic,Mandalay,VAL-03: Immunization Target Overflow (Measles Doses > 125% Birth Cohort),mr_measles_doses <= birth_cohort * 1.25,152,87,Data Anomaly,Check for duplicate batch recording or cross-boundary migrant influx
+2026-08,Bogale Rural Sub-Center,Bogale,VAL-01: Biological Impossibility (Male ANC Attendance),male_anc_visits == 0,3,0,Critical Error,Immediate return to clinic data clerk for correction
+2026-09,Lashio IDP Health Post,Lashio,VAL-02: Over-prescription Discrepancy (ACT Treated > RDT Positive),malaria_treated_act <= malaria_rdt_positive,32,8,Warning / Audit Needed,Verify if clinical presumptive treatment without RDT occurred
